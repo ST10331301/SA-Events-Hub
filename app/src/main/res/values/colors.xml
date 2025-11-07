@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <!-- Add these missing colors -->
+    <color name="gray">#FF757575</color>
+
+
+    <!-- South African Flag Colors -->
+    <color name="sa_red">#E03C31</color>
+    <color name="sa_blue">#002395</color>
+    <color name="sa_green">#007A4D</color>
+    <color name="sa_yellow">#FFB81C</color>
+    <color name="sa_black">#000000</color>
+    <color name="sa_white">#FFFFFF</color>
+
+    <!-- App Theme Colors -->
+    <color name="primary">#002395</color>
+    <color name="primary_dark">#001A66</color>
+    <color name="primary_light">#4D5FA8</color>
+    <color name="accent">#E03C31</color>
+    <color name="background">#F5F5F5</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_accent">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="divider">#E0E0E0</color>
+
+</resources>
