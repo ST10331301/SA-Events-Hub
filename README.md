@@ -9,7 +9,11 @@ A Kotlin Android application for discovering and managing events in South Africa
 - User-friendly interface
 
 ## Video Presentation
-[Insert your video link here after recording]
+[Watch the app demo here](https://drive.google.com/file/d/1XzkWwHdtX8TP4iBO2alKNr7zZkbWR3Xc/view?usp=drive_link)
+
+**Video Features Demonstrated:**
+- App startup and main screen
+
 
 ## Installation
 1. Clone this repository: `git clone https://github.com/RC_Student_Lab/SA-Events-Hub.git`
