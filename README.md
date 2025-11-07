@@ -9,7 +9,7 @@ A Kotlin Android application for discovering and managing events in South Africa
 - User-friendly interface
 
 ## Video Presentation
-[Watch the app demo here](https://drive.google.com/file/d/1XzkWwHdtX8TP4iBO2alKNr7zZkbWR3Xc/view?usp=drive_link)
+[Watch the app demo here](https://drive.google.com/file/d/1-H4fiUwMK-9D5LnSUqFmVboKKChiWU2l/view?usp=drivesdk)
 
 **Video Features Demonstrated:**
 - App startup and main screen
